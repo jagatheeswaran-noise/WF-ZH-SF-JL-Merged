@@ -1,0 +1,22 @@
+# Node modules
+watch-home/node_modules/
+jieli-middleware/node_modules/
+watch-assembly-tool/node_modules/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+
+# Environment variables
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
