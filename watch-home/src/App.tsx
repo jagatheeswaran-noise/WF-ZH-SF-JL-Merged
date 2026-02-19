@@ -16,6 +16,12 @@ const WATCH_ROUTES: WatchRoute[] = [
     board: 'SF',
     path: '../ZhouHaiWatchFace/frontend/watch-assembly-tool/dist/index.html',
     port: 5175
+  },
+  {
+    vendor: 'MY',
+    board: 'JL',
+    path: '/Users/mokshjain/Desktop/WFT-MY-JL/index.html',
+    port: 5176
   }
 ]
 
